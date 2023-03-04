@@ -1,0 +1,6 @@
+*.pyc
+/media/
+/static/
+general.log
+celerybeat-schedule.bak
+celerybeat-schedule.dat
